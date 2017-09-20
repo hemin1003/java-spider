@@ -17,7 +17,7 @@
   "categoryReg": "",
   "categoryXPath": "//a[@accesskey=\"5\"]/text()",
   "defaultCategory": "",
-  "urlReg": "http://news.qq.com/a/20170905/[0-9]+.htm",
+  "urlReg": "http://news.qq.com/a/\\d{8}/\\d+\\.htm",
   "charset": "",
   "publishTimeXPath": "",
   "publishTimeReg": "<span class=\"a_time\">(.*?)</span>",

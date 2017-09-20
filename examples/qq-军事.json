@@ -1,0 +1,52 @@
+{
+    "siteName": "腾讯新闻-军事-自动探测",
+    "domain": "mil.qq.com",
+    "startURL": [
+        "http://mil.qq.com/"
+    ],
+    "id": "",
+    "thread": "2",
+    "retry": "2",
+    "sleep": "800",
+    "maxPageGather": "10",
+    "timeout": "5000",
+    "contentReg": "",
+    "contentXPath": "//div[@id='Cnt-Main-Article-QQ']/outerHtml()",
+    "titleReg": "",
+    "titleXPath": "",
+    "categoryReg": "",
+    "categoryXPath": "//a[@accesskey=\"5\"]/text()",
+    "defaultCategory": "",
+    "urlReg": "http://mil.qq.com/a/\\d{8}/\\d+\\.htm",
+    "charset": "",
+    "publishTimeXPath": "",
+    "publishTimeReg": "",
+    "publishTimeFormat": "",
+    "imgsReg": "",
+    "imgsXPath": "//p//IMG[@alt]/@src",
+    "lang": "",
+    "country": "",
+    "callbackURL": [],
+    "userAgent": "Mozilla/5.0 (Windows NT 5.2) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30",
+    "proxyHost": "",
+    "proxyPort": "0",
+    "proxyUsername": "",
+    "proxyPassword": "",
+    "doNLP": true,
+    "needTitle": true,
+    "needContent": true,
+    "needPublishTime": true,
+    "autoDetectPublishDate": true,
+    "gatherFirstPage": false,
+    "saveCapture": false,
+    "ajaxSite": false,
+    "dynamicFields": [
+        {
+            "regex": "",
+            "xpath": "//p//IMG[@alt]/@src",
+            "name": "imgs",
+            "need": false
+        }
+    ],
+    "staticFields": []
+}

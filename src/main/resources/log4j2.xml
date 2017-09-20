@@ -17,7 +17,7 @@
         </RollingFile>
     </appenders>
     <loggers>
-        <root level="info">
+        <root level="debug">
             <appender-ref ref="Console"/>
             <appender-ref ref="RollingFile"/>
         </root>
@@ -33,7 +33,7 @@
             <appender-ref ref="Console"/>
             <appender-ref ref="RollingFile"/>
         </logger>
-        <logger name="org.springframework" level="info" additivity="false">
+        <logger name="org.springframework" level="debug" additivity="false">
             <appender-ref ref="Console"/>
             <appender-ref ref="RollingFile"/>
         </logger>
