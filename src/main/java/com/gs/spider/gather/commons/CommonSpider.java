@@ -264,8 +264,8 @@ public class CommonSpider extends AsyncGather {
 //            content = content.replace("\n", "<br/>");
 //            content = content.replaceAll("(\\<br/\\>\\s*){2,}", "<br/> ");
 //            content = content.replaceAll("(&nbsp;\\s*)+", " ");
-            page.putField("content", HTML_PREFIX + content + HTML_SUFFIX);
-//            page.putField("content", content);
+//            page.putField("content", HTML_PREFIX + content + HTML_SUFFIX);
+            page.putField("content", content);
             if (info.isNeedContent() && StringUtils.isBlank(content)) {//if the content is blank ,skip it!
                 page.setSkip(true);
                 return;
