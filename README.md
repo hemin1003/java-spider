@@ -1,3 +1,12 @@
+# 基于二次JAVA开发，已投入生产线上使用
+
+[后台管理统计系统](https://github.com/hemin1003/aylson-parent)
+
+体验系统地址：http://182.92.82.188:8280/manage/login.jsp  
+体验账号/密码，test1001/a12345678
+系统源码：https://github.com/hemin1003/aylson-parent(https://github.com/hemin1003/aylson-parent)
+
+
 # 欢迎使用 Gather Platform 数据采集与分析平台
 
 ------
