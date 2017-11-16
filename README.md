@@ -2,7 +2,7 @@
 
 已实现能爬取腾讯，搜狐，今日头条（单独集成功能）等资讯内容，配合elasticsearch框架用法，实现了自动爬虫，已投入生产试用中。
 
-[后台管理统计系统](https://github.com/hemin1003/aylson-parent)
+[后台管理统计系统源码](https://github.com/hemin1003/aylson-parent)
 
 体验系统地址：http://182.92.82.188:8280/manage/login.jsp 
 
@@ -19,8 +19,9 @@
 [个人域名](http://heminit.com)
 
 
-
+</br></br>
 参考项目资料如下：
+
 
 # 欢迎使用 Gather Platform 数据采集与分析平台
 
