@@ -1,4 +1,6 @@
-# 基于二次JAVA开发，已投入生产线上使用
+# 基于webmagic框架二次开发的java爬虫框架实战
+
+已实现能爬取腾讯，搜狐，今日头条（单独集成功能）等资讯内容，配合elasticsearch框架用法，实现了自动爬虫，已投入生产试用中。
 
 [后台管理统计系统](https://github.com/hemin1003/aylson-parent)
 
@@ -8,6 +10,15 @@
 
 后台系统源码：[https://github.com/hemin1003/aylson-parent](https://github.com/hemin1003/aylson-parent)
 
+## [关于我](http://heminit.com/about/)
+
+欢迎交流问题，可加QQ469580884，一起探讨交流问题
+
+[我的博客地址](http://blog.csdn.net/hemin1003)
+
+
+
+参考项目资料如下：
 
 # 欢迎使用 Gather Platform 数据采集与分析平台
 
