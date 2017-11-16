@@ -1,6 +1,6 @@
-# 基于webmagic框架二次开发的java爬虫框架实战
+# JAVA爬虫框架实战
 
-已实现能爬取腾讯，搜狐，今日头条（单独集成功能）等资讯内容，配合elasticsearch框架用法，实现了自动爬虫，已投入生产试用中。
+基于webmagic框架二次开发的java爬虫框架实战，已实现能爬取腾讯，搜狐，今日头条（单独集成功能）等资讯内容，配合elasticsearch框架用法，实现了自动爬虫，已投入生产试用中。
 
 [后台管理统计系统源码](https://github.com/hemin1003/aylson-parent)
 
