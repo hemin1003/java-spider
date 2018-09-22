@@ -41,8 +41,9 @@
         <!--普通网页爬虫数据输出管道配置-->
         <property name="pipelineList">
             <list>
-                <!--Redis输出-->
+                <!--Redis输出
                 <ref bean="commonWebpageRedisPipeline"/>
+                -->
                 <!--ES输出 -->
                 <ref bean="commonWebpagePipeline"/>
                 <!--Json输出
