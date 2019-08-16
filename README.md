@@ -18,6 +18,12 @@
 
 [个人域名](http://heminit.com)
 
+## 感谢
+如果觉得内容赞，您可以请我喝杯咖啡：
+<br/>
+<img src="./pay/wechat.jpeg" width="240px" height="240px" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./pay/alipay.jpeg" width="240px" height="240px" />
+
 
 </br></br>
 参考项目资料如下：
